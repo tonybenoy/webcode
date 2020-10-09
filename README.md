@@ -1,6 +1,6 @@
 # webcode
 
-Essentially a soft version of code spaces by github.Create a new repo from this template to make cuton versions.
+Essentially a soft version of code spaces by github.Create a new repo from this template to make custom versions.
 
 ## Create personal docker image
 
